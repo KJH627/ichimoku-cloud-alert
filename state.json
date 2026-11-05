@@ -1,5 +1,5 @@
 {
-  "BTCUSDT": "BULL",
-  "ETHUSDT": "BULL",
+  "BTCUSDT": "BEAR",
+  "ETHUSDT": "BEAR",
   "SOLUSDT": "BEAR"
 }
